@@ -26,6 +26,12 @@ This is a simple Todo application built with React for managing tasks. You can c
 To run the application locally, follow these steps:
 
 1. **Clone the Repository**
+
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nitin01010/Task-Management-App
+   ```
+
+2. **Live view**
+   ```bash
+   Vercel view :  https://task-management-app-seven-flax.vercel.app/
    ```
